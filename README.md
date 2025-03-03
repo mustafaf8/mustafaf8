@@ -49,6 +49,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaf8&show_icons=true&locale=en&layout=compact" alt="sar1teke" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaf8&show_icons=true&locale=en&layout=compact" alt="Nahsan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafaf8&show_icons=true&locale=en" alt="sar1teke" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafaf8&show_icons=true&locale=en" alt="Nahsan" /></p>
