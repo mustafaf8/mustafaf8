@@ -5,7 +5,7 @@
 
 - 🌱 Şu anda öğreniyorum: **Yapay Zeka, C#, Python, flutter, **
 
-- 📫 Bana ulaşmak için: **www.mustafanahsan.live**
+- 📫 Bana ulaşmak için: **mustafanahsan.live**
 
 <h3 align="left">Bağlantılar: </h3>
 <p align="left">
