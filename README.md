@@ -9,7 +9,7 @@
 ### 👨‍💻 Hakkımda
 
 - 🔭 Şu anda **Yapay Zeka**, **C#**, **Python** ve **Flutter** üzerine kendimi geliştiriyorum.
-- 📫 Bana Ulaşın: **mustafanahsan.live**
+- 📫 Bana Ulaşın: **mustafanahsan.site**
 - ⚡ Eğlenceli bir bilgi: Yeni teknolojileri denemeyi ve karmaşık problemleri çözmeyi seviyorum!
 
 ---
